@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Google Maps Easy Scraper",
+    "name": "GoogleMapsEasyScraper",
     "version": "1.0",
     "description": "Google Maps Easy Scrape - Custom",
     "permissions": ["activeTab", "scripting"],
